@@ -11,7 +11,7 @@ Written by Uku-Kaspar Uustalu
 [![@TuftsDataLab](https://tuftsdatalab.github.io/assets/badges/twitter.svg)](https://twitter.com/intent/follow?screen_name=tuftsdatalab)
 
 Python resoucres: [go.tufts.edu/python](https://sites.tufts.edu/datalab/python/)  
-Consultations: [datalab-support@elist.tufts.edu](mailto:datalab-support@elist.tufts.edu)  
+Questions: [datalab-support@elist.tufts.edu](mailto:datalab-support@elist.tufts.edu)  
 Feedback: [uku-kaspar.uustalu@tufts.edu](mailto:uku-kaspar.uustalu@tufts.edu)
 
 ---
