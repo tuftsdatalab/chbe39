@@ -31,7 +31,7 @@ A hands-on introductory notebook that is suitable for self-guided study and cove
 - Reading **documentation** and modifying **function** behaviour
 - Difference between **functions** and **methods**
 - **Lambda** (anonymous) functions and **map** functions
-- **View** (*Pass-by-Reference*) vs **Copy** (*Pass-by-Value*)
+- **View** (*pass-by-reference*) vs **copy** (*pass-by-value*)
 
 ---
 ## Part 2/2: A Gentle Introduction to NumPy
