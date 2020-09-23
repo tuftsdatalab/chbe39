@@ -4,13 +4,13 @@
 ![last updated](https://img.shields.io/github/last-commit/tuftsdatalab/chbe39?label=last%20updated)
 
 # Introduction to Python and NumPy for ChBE39
-**A Tufts University Data Lab Worskhop**  
+**A Tufts University Data Lab Workshop**  
 Written by Uku-Kaspar Uustalu
 
 [![datalab.tufts.edu](https://tuftsdatalab.github.io/assets/badges/datalab.svg)](https://sites.tufts.edu/datalab)&nbsp;
 [![@TuftsDataLab](https://tuftsdatalab.github.io/assets/badges/twitter.svg)](https://twitter.com/intent/follow?screen_name=tuftsdatalab)
 
-Python resoucres: [go.tufts.edu/python](https://sites.tufts.edu/datalab/python/)  
+Python resources: [go.tufts.edu/python](https://sites.tufts.edu/datalab/python/)  
 Questions: [datalab-support@elist.tufts.edu](mailto:datalab-support@elist.tufts.edu)  
 Feedback: [uku-kaspar.uustalu@tufts.edu](mailto:uku-kaspar.uustalu@tufts.edu)
 
@@ -23,12 +23,12 @@ Feedback: [uku-kaspar.uustalu@tufts.edu](mailto:uku-kaspar.uustalu@tufts.edu)
 
 A hands-on introductory notebook that is suitable for self-guided study and covers the following:
 
-- Using Python in a **notebook** enviornment
+- Using Python in a **notebook** environment
 - Working with **lists**, **dictionaries**, and **tuples**
 - Basic **string** manipulation
 - Writing your own **functions**
 - **Loops** and **conditionals**
-- Reading **documentation** and modifying **function** behaviour
+- Reading **documentation** and modifying **function** behavior
 - Difference between **functions** and **methods**
 - **Lambda** (anonymous) functions and **map** functions
 - **View** (*pass-by-reference*) vs **copy** (*pass-by-value*)
