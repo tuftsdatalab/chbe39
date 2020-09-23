@@ -34,5 +34,9 @@ A hands-on introductory notebook that is suitable for self-guided study and cove
 - **View** (*pass-by-reference*) vs **copy** (*pass-by-value*)
 
 ---
-## Part 2/2: A Gentle Introduction to NumPy
-*Will be uploaded on September 22.*
+## Part 2/2: A Gentle Introduction to NumPy and Matplotlib
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/master/chbe39-numpy-matplotlib.ipynb)&nbsp;
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/master?urlpath=lab/tree/chbe39-numpy-matplotlib.ipynb)&nbsp;
+[![Download Notebook](https://tuftsdatalab.github.io/assets/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-numpy-matplotlib.ipynb)&nbsp;
+
