@@ -11,7 +11,7 @@ Written by Uku-Kaspar Uustalu
 [![@TuftsDataLab](https://tuftsdatalab.github.io/assets/badges/twitter.svg)](https://twitter.com/intent/follow?screen_name=tuftsdatalab)
 
 Python resoucres: [go.tufts.edu/python](https://sites.tufts.edu/datalab/python/)  
-Consultations: [datalab-support@elist.tufts.edu](mailto:datalab-support@elist.tufts.edu)  
+Questions: [datalab-support@elist.tufts.edu](mailto:datalab-support@elist.tufts.edu)  
 Feedback: [uku-kaspar.uustalu@tufts.edu](mailto:uku-kaspar.uustalu@tufts.edu)
 
 ---
@@ -31,7 +31,7 @@ A hands-on introductory notebook that is suitable for self-guided study and cove
 - Reading **documentation** and modifying **function** behaviour
 - Difference between **functions** and **methods**
 - **Lambda** (anonymous) functions and **map** functions
-- **View** (*Pass-by-Reference*) vs **Copy** (*Pass-by-Value*)
+- **View** (*pass-by-reference*) vs **copy** (*pass-by-value*)
 
 ---
 ## Part 2/2: A Gentle Introduction to NumPy
