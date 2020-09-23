@@ -47,7 +47,7 @@ An interactive introduction to NumPy and Matplotlib that makes comparisons with 
 - Different ways of **creating**, **indexing**, and **slicing** NumPy arrays
 - **Broadcasting** and using mathematical operators with `np.array`
 - **Universal** functions and **aggregation** functions
-- **Iterating** over **mapping** over elements in NumPy arrays
+- **Iterating** and **mapping** over elements in NumPy arrays
 - ***Row-major*** vs ***column-major*** order and array **flattening**
 - **Shape manipulation** and the difference between ***copies*** and ***views***
 - Quick overview of creating and styling plots with **Matplotlib**
