@@ -4,14 +4,14 @@
 ![last updated](https://img.shields.io/github/last-commit/tuftsdatalab/chbe39?label=last%20updated)
 
 # Introduction to Python and NumPy for ChBE39
-**A Tufts University Data Lab Workshop**  
+**A Tufts University Data Lab Workshop**
 Written by Uku-Kaspar Uustalu
 
 [![datalab.tufts.edu](https://tuftsdatalab.github.io/assets/badges/datalab.svg)](https://sites.tufts.edu/datalab)&nbsp;
 [![@TuftsDataLab](https://tuftsdatalab.github.io/assets/badges/twitter.svg)](https://twitter.com/intent/follow?screen_name=tuftsdatalab)
 
-Python resources: [go.tufts.edu/python](https://sites.tufts.edu/datalab/python/)  
-Questions: [datalab-support@elist.tufts.edu](mailto:datalab-support@elist.tufts.edu)  
+Python resources: [go.tufts.edu/python](https://sites.tufts.edu/datalab/python/)
+Questions: [datalab-support@elist.tufts.edu](mailto:datalab-support@elist.tufts.edu)
 Feedback: [uku-kaspar.uustalu@tufts.edu](mailto:uku-kaspar.uustalu@tufts.edu)
 
 ---
@@ -40,3 +40,15 @@ A hands-on introductory notebook that is suitable for self-guided study and cove
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/master?urlpath=lab/tree/chbe39-numpy-matplotlib.ipynb)&nbsp;
 [![Download Notebook](https://tuftsdatalab.github.io/assets/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-numpy-matplotlib.ipynb)&nbsp;
 
+An interactive introduction to NumPy and Matplotlib that makes comparisons with MATLAB and covers the following:
+
+- **Importing** Python **packages** and common **aliases**
+- The NumPy **`numpy.ndarray`** a.k.a. **`np.array`** data structure
+- Different ways of **creating**, **indexing**, and **slicing** NumPy arrays
+- **Broadcasting** and using mathematical operators with `np.array`
+- **Universal** functions and **aggregation** functions
+- **Iterating** over **mapping** over elements in NumPy arrays
+- ***Row-major*** vs ***column-major*** order and array **flattening**
+- **Shape manipulation** and the difference between ***copies*** and ***views***
+- Quick overview of creating and styling plots with **Matplotlib**
+- Creating a figure with multiple **subplots** in Matplotlib
