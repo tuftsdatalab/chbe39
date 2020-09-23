@@ -10,8 +10,8 @@ Written by Uku-Kaspar Uustalu
 [![datalab.tufts.edu](https://tuftsdatalab.github.io/assets/badges/datalab.svg)](https://sites.tufts.edu/datalab)&nbsp;
 [![@TuftsDataLab](https://tuftsdatalab.github.io/assets/badges/twitter.svg)](https://twitter.com/intent/follow?screen_name=tuftsdatalab)
 
-Python resources: [go.tufts.edu/python](https://sites.tufts.edu/datalab/python/)
-Questions: [datalab-support@elist.tufts.edu](mailto:datalab-support@elist.tufts.edu)
+Python resources: [go.tufts.edu/python](https://sites.tufts.edu/datalab/python/)\
+Questions: [datalab-support@elist.tufts.edu](mailto:datalab-support@elist.tufts.edu)\
 Feedback: [uku-kaspar.uustalu@tufts.edu](mailto:uku-kaspar.uustalu@tufts.edu)
 
 ---
