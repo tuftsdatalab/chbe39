@@ -50,5 +50,5 @@ An interactive introduction to NumPy and Matplotlib that makes comparisons with 
 - **Iterating** and **mapping** over elements in NumPy arrays
 - ***Row-major*** vs ***column-major*** order and array **flattening**
 - **Shape manipulation** and the difference between ***copies*** and ***views***
-- Quick overview of creating and styling plots with **Matplotlib**
+- Quick overview of **creating** and **styling plots** with Matplotlib
 - Creating a figure with multiple **subplots** in Matplotlib
