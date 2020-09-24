@@ -4,7 +4,7 @@
 ![last updated](https://img.shields.io/github/last-commit/tuftsdatalab/chbe39?label=last%20updated)
 
 # Introduction to Python and NumPy for ChBE39
-**A Tufts University Data Lab Workshop**
+**A Tufts University Data Lab Workshop**\
 Written by Uku-Kaspar Uustalu
 
 [![datalab.tufts.edu](https://tuftsdatalab.github.io/assets/badges/datalab.svg)](https://sites.tufts.edu/datalab)&nbsp;
