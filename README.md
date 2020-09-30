@@ -52,3 +52,19 @@ An interactive introduction to NumPy and Matplotlib that makes comparisons with 
 - **Shape manipulation** and the difference between ***copies*** and ***views***
 - Quick overview of **creating** and **styling plots** with Matplotlib
 - Creating a figure with multiple **subplots** in Matplotlib
+
+---
+## Bonus: File I/O with Python and NumPy
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/master/chbe39-file-io-numpy.ipynb)&nbsp;
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/master?urlpath=lab/tree/chbe39-file-io-numpy.ipynb)&nbsp;
+[![Download Notebook](https://tuftsdatalab.github.io/assets/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-file-io-numpy.ipynb)&nbsp;
+
+Supplemental material on reading and writing files using both methods included in NumPy and standard Python functionality. Topics covered include:
+
+- Various options for **importing** and **exporting** NumPy arrays
+- Difference between **binary** and **text** files
+- Tweaking the textual representation of numbers using **format strings**
+- **Loss of significance** when exporting floating-point numbers
+- Reading files with Python using **`with`** and `**open()**`
+- Additional examples of **nested loops** and **iterating over indices**
