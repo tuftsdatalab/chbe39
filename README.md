@@ -1,5 +1,5 @@
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/master?urlpath=lab)&nbsp;
-[![Download Zip](https://tuftsdatalab.github.io/assets/badges/download.svg)](https://github.com/tuftsdatalab/chbe39/archive/master.zip)&nbsp;
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab)&nbsp;
+[![Download Zip](https://tuftsdatalab.github.io/assets/badges/download.svg)](https://github.com/tuftsdatalab/chbe39/archive/main.zip)&nbsp;
 ![total size](https://img.shields.io/github/repo-size/tuftsdatalab/chbe39?label=total%20size)&nbsp;
 ![last updated](https://img.shields.io/github/last-commit/tuftsdatalab/chbe39?label=last%20updated)
 
@@ -27,8 +27,8 @@ Slides: [tufts.box.com/v/chbe39-python](https://tufts.box.com/v/chbe39-python)
 ---
 ## Part 1/2: Introduction to Programming with Python
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/master/chbe39-intro-python.ipynb)&nbsp;
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/master?urlpath=lab/tree/chbe39-intro-python.ipynb)&nbsp;
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-intro-python.ipynb)&nbsp;
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-intro-python.ipynb)&nbsp;
 [![Download Notebook](https://tuftsdatalab.github.io/assets/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-intro-python.ipynb)&nbsp;
 
 A hands-on introductory notebook that is suitable for self-guided study and covers the following:
@@ -46,8 +46,8 @@ A hands-on introductory notebook that is suitable for self-guided study and cove
 ---
 ## Part 2/2: A Gentle Introduction to NumPy and Matplotlib
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/master/chbe39-numpy-matplotlib.ipynb)&nbsp;
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/master?urlpath=lab/tree/chbe39-numpy-matplotlib.ipynb)&nbsp;
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-numpy-matplotlib.ipynb)&nbsp;
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-numpy-matplotlib.ipynb)&nbsp;
 [![Download Notebook](https://tuftsdatalab.github.io/assets/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-numpy-matplotlib.ipynb)&nbsp;
 
 An interactive introduction to NumPy and Matplotlib that makes comparisons with MATLAB and covers the following:
@@ -66,8 +66,8 @@ An interactive introduction to NumPy and Matplotlib that makes comparisons with 
 ---
 ## Bonus: File I/O with Python and NumPy
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/master/chbe39-file-io-numpy.ipynb)&nbsp;
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/master?urlpath=lab/tree/chbe39-file-io-numpy.ipynb)&nbsp;
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-file-io-numpy.ipynb)&nbsp;
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-file-io-numpy.ipynb)&nbsp;
 [![Download Notebook](https://tuftsdatalab.github.io/assets/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-file-io-numpy.ipynb)&nbsp;
 
 Supplemental material on reading and writing files using both methods included in NumPy and standard Python functionality. Topics covered include:
