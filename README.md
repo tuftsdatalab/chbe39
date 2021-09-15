@@ -1,5 +1,6 @@
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab)&nbsp;
-[![Download Zip](https://tuftsdatalab.github.io/badges/zip.svg)](https://github.com/tuftsdatalab/chbe39/archive/main.zip)&nbsp;
+[![Download Zip](https://tuftsdatalab.github.io/badges/zip.svg)](https://github.com/tuftsdatalab/chbe39/zipball/main)&nbsp;
+[![Download TarGz](https://tuftsdatalab.github.io/badges/tgz.svg)](https://github.com/tuftsdatalab/chbe39/tarball/main)&nbsp;
 ![total size](https://img.shields.io/github/repo-size/tuftsdatalab/chbe39?label=total%20size)&nbsp;
 ![last updated](https://img.shields.io/github/last-commit/tuftsdatalab/chbe39?label=last%20updated)
 
