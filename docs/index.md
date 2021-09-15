@@ -1,10 +1,10 @@
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab)&nbsp;
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab){:target="_blank"}&nbsp;
+[![View on Github](https://tuftsdatalab.github.io/badges/github.svg)](https://github.com/tuftsdatalab/chbe39)&nbsp;
 [![Download Zip](https://tuftsdatalab.github.io/badges/zip.svg)](https://github.com/tuftsdatalab/chbe39/zipball/main)&nbsp;
 [![Download TarGz](https://tuftsdatalab.github.io/badges/tgz.svg)](https://github.com/tuftsdatalab/chbe39/tarball/main)&nbsp;
-![total size](https://img.shields.io/github/repo-size/tuftsdatalab/chbe39?label=total%20size)&nbsp;
+![download size](https://img.shields.io/github/repo-size/tuftsdatalab/chbe39?label=download%20size)&nbsp;
 ![last updated](https://img.shields.io/github/last-commit/tuftsdatalab/chbe39?label=last%20updated)
 
-# Introduction to Python and NumPy for ChBE39
 **A Tufts University Data Lab Workshop**\
 Written by Uku-Kaspar Uustalu
 
@@ -12,24 +12,24 @@ Written by Uku-Kaspar Uustalu
 [![@TuftsDataLab](https://tuftsdatalab.github.io/badges/twitter.svg)](https://twitter.com/intent/follow?screen_name=tuftsdatalab)
 
 Python resources: [go.tufts.edu/python](https://sites.tufts.edu/datalab/python/)\
-Questions: [datalab-support@elist.tufts.edu](mailto:datalab-support@elist.tufts.edu)\
-Feedback: [uku-kaspar.uustalu@tufts.edu](mailto:uku-kaspar.uustalu@tufts.edu)
+Questions: <datalab-support@elist.tufts.edu>\
+Feedback: <uku-kaspar.uustalu@tufts.edu>
 
 Slides: [tufts.box.com/v/chbe39-python](https://tufts.box.com/v/chbe39-python)
 
 ---
 ## Table of Contents
 
-- [Part 1/2: Introduction to Programming with Python](https://github.com/tuftsdatalab/chbe39#part-12-introduction-to-programming-in-python)
-- [Part 2/2: A Gentle Introduction to NumPy and Matplotlib](https://github.com/tuftsdatalab/chbe39#part-22-a-gentle-introduction-to-numpy-and-matplotlib)
-- [Bonus: File I/O with Python and NumPy](https://github.com/tuftsdatalab/chbe39#bonus-file-io-with-python-and-numpy)
-- [Additional Resources](https://github.com/tuftsdatalab/chbe39#additional-resources)
+- [Part 1/2: Introduction to Programming with Python](#part-1)
+- [Part 2/2: A Gentle Introduction to NumPy and Matplotlib](#part-2)
+- [Bonus: File I/O with Python and NumPy](#bonus)
+- [Additional Resources](#resources)
 
 ---
 ## Part 1/2: Introduction to Programming with Python
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-intro-python.ipynb)&nbsp;
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-intro-python.ipynb)&nbsp;
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-intro-python.ipynb){:target="_blank"}&nbsp;
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-intro-python.ipynb){:target="_blank"}&nbsp;
 [![Download Notebook](https://tuftsdatalab.github.io/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-intro-python.ipynb)&nbsp;
 
 A hands-on introductory notebook that is suitable for self-guided study and covers the following:
@@ -47,8 +47,8 @@ A hands-on introductory notebook that is suitable for self-guided study and cove
 ---
 ## Part 2/2: A Gentle Introduction to NumPy and Matplotlib
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-numpy-matplotlib.ipynb)&nbsp;
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-numpy-matplotlib.ipynb)&nbsp;
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-numpy-matplotlib.ipynb){:target="_blank"}&nbsp;
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-numpy-matplotlib.ipynb){:target="_blank"}&nbsp;
 [![Download Notebook](https://tuftsdatalab.github.io/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-numpy-matplotlib.ipynb)&nbsp;
 
 An interactive introduction to NumPy and Matplotlib that makes comparisons with MATLAB and covers the following:
@@ -67,8 +67,8 @@ An interactive introduction to NumPy and Matplotlib that makes comparisons with 
 ---
 ## Bonus: File I/O with Python and NumPy
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-file-io-numpy.ipynb)&nbsp;
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-file-io-numpy.ipynb)&nbsp;
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-file-io-numpy.ipynb){:target="_blank"}&nbsp;
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-file-io-numpy.ipynb){:target="_blank"}&nbsp;
 [![Download Notebook](https://tuftsdatalab.github.io/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-file-io-numpy.ipynb)&nbsp;
 
 Supplemental material on reading and writing files using both methods included in NumPy and standard Python functionality. Topics covered include:
