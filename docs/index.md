@@ -29,7 +29,7 @@ Slides: [tufts.box.com/v/chbe39-python](https://tufts.box.com/v/chbe39-python)
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-intro-python.ipynb){:target="_blank"}&nbsp;
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-intro-python.ipynb){:target="_blank"}&nbsp;
-[![Download Notebook](https://tuftsdatalab.github.io/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-intro-python.ipynb)&nbsp;
+[![Download Notebook](https://tuftsdatalab.github.io/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39@latest/chbe39-intro-python.ipynb)&nbsp;
 
 A hands-on introductory notebook that is suitable for self-guided study and covers the following:
 
@@ -37,7 +37,8 @@ A hands-on introductory notebook that is suitable for self-guided study and cove
 - Working with **lists**, **dictionaries**, and **tuples**
 - Basic **string** manipulation
 - Writing your own **functions**
-- **Loops** and **conditionals**
+- **Loops** and **list comprehension**
+- Control flow with **conditionals**
 - Reading **documentation** and modifying **function** behavior
 - Difference between **functions** and **methods**
 - **Lambda** (anonymous) functions and **map** functions
@@ -48,7 +49,7 @@ A hands-on introductory notebook that is suitable for self-guided study and cove
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-numpy-matplotlib.ipynb){:target="_blank"}&nbsp;
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-numpy-matplotlib.ipynb){:target="_blank"}&nbsp;
-[![Download Notebook](https://tuftsdatalab.github.io/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-numpy-matplotlib.ipynb)&nbsp;
+[![Download Notebook](https://tuftsdatalab.github.io/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39@latest/chbe39-numpy-matplotlib.ipynb)&nbsp;
 
 An interactive introduction to NumPy and Matplotlib that makes comparisons with MATLAB and covers the following:
 
