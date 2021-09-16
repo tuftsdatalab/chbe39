@@ -37,7 +37,8 @@ A hands-on introductory notebook that is suitable for self-guided study and cove
 - Working with **lists**, **dictionaries**, and **tuples**
 - Basic **string** manipulation
 - Writing your own **functions**
-- **Loops** and **conditionals**
+- **Loops** and **list comprehension**
+- Control flow with **conditionals**
 - Reading **documentation** and modifying **function** behavior
 - Difference between **functions** and **methods**
 - **Lambda** (anonymous) functions and **map** functions
