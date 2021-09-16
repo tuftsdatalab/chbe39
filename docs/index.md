@@ -21,12 +21,11 @@ Slides: [tufts.box.com/v/chbe39-python](https://tufts.box.com/v/chbe39-python)
 ## Table of Contents
 
 - [Part 1/2: Introduction to Programming with Python](#part-1)
-- [Part 2/2: A Gentle Introduction to NumPy and Matplotlib](#part-2)
-- [Bonus: File I/O with Python and NumPy](#bonus)
+- [Part 2/2: Scientific Computing with Python using NumPy](#part-2)
 - [Additional Resources](#resources)
 
 ---
-## Part 1/2: Introduction to Programming with Python
+## Part 1/2: Introduction to Programming with Python {#part-1}
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-intro-python.ipynb){:target="_blank"}&nbsp;
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-intro-python.ipynb){:target="_blank"}&nbsp;
@@ -45,7 +44,7 @@ A hands-on introductory notebook that is suitable for self-guided study and cove
 - **View** (*pass-by-reference*) vs **copy** (*pass-by-value*)
 
 ---
-## Part 2/2: A Gentle Introduction to NumPy and Matplotlib
+## Part 2/2: Scientific Computing with Python using NumPy {#part-2}
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-numpy-matplotlib.ipynb){:target="_blank"}&nbsp;
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-numpy-matplotlib.ipynb){:target="_blank"}&nbsp;
@@ -61,31 +60,20 @@ An interactive introduction to NumPy and Matplotlib that makes comparisons with 
 - **Iterating** and **mapping** over elements in NumPy arrays
 - ***Row-major*** vs ***column-major*** order and array **flattening**
 - **Shape manipulation** and the difference between ***copies*** and ***views***
+- Various options for **importing** and **exporting** NumPy arrays
+- Tweaking the textual representation of numbers using **format strings**
+- Reading files with Python using **`with`** and **`open()`**
 - Quick overview of **creating** and **styling plots** with Matplotlib
 - Creating a figure with multiple **subplots** in Matplotlib
 
 ---
-## Bonus: File I/O with Python and NumPy
-
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuftsdatalab/chbe39/main?urlpath=lab/tree/chbe39-file-io-numpy.ipynb){:target="_blank"}&nbsp;
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuftsdatalab/chbe39/blob/main/chbe39-file-io-numpy.ipynb){:target="_blank"}&nbsp;
-[![Download Notebook](https://tuftsdatalab.github.io/badges/jupyter.svg)](https://cdn.jsdelivr.net/gh/tuftsdatalab/chbe39/chbe39-file-io-numpy.ipynb)&nbsp;
-
-Supplemental material on reading and writing files using both methods included in NumPy and standard Python functionality. Topics covered include:
-
-- Various options for **importing** and **exporting** NumPy arrays
-- Difference between **binary** and **text** files
-- Tweaking the textual representation of numbers using **format strings**
-- **Loss of significance** when exporting floating-point numbers
-- Reading files with Python using **`with`** and **`open()`**
-- Additional examples of **nested loops** and **iterating over indices**
-
----
-## Additional Resources
+## Additional Resources {#resources}
 
 - **Python Basics**
-    - [Kaggle Python Tutorial](https://www.kaggle.com/learn/python
-)  *(contains interactive hands-on exercises with hints and solutions)*
+    - [Kaggle Python Course](https://www.kaggle.com/learn/python)  *(contains interactive hands-on exercises with hints and solutions)*
+    - [W3Schools Python Tutorial](https://www.w3schools.com/python/) *(contains interactive examples)*
+    - [Google's Python Class](https://developers.google.com/edu/python) *(contains exercises with solutions)*
+    - [Official Python Tutorial](https://docs.python.org/3/tutorial/)
 - **NumPy**
     - [University of Helsinki Data Analysis with Python MOOC](https://csmastersuh.github.io/data_analysis_with_python_2020/numpy.html) *(contains exercise prompts)*
     - [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
